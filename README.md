@@ -5,7 +5,7 @@ This project presents an interactive HR analytics dashboard simulating a real-wo
 It focuses on analyzing candidate flow from application to final decision, identifying bottlenecks, optimizing hiring efficiency, and measuring conversion rates across sourcing channels.
 
 ---
-## Dashboard View !
+## Dashboard View ![https://github.com/sandhyasingh27/Recruitment-Funnel-Analysis/tree/main](https://github.com/sandhyasingh27/Recruitment-Funnel-Analysis/blob/main/Screenshot-%20dashboard.png)
 ---
 
 ## 🎯 Project Objectives
