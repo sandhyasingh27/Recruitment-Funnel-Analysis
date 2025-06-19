@@ -42,7 +42,6 @@ It focuses on analyzing candidate flow from application to final decision, ident
 | `Recruitment_Funnel_Analysis.xlsx` | Final Excel dashboard with all visuals and slicers |
 | `Recruitment_Data_Cleaned.xlsx` | Cleaned mock dataset (150 candidates) |
 | `README.md` | Project documentation and summary |
-| *(Optional)* `Recruitment_Funnel_Tableau.twbx` | [Coming Soon] Tableau version of this dashboard |
 
 ---
 
@@ -76,21 +75,13 @@ It focuses on analyzing candidate flow from application to final decision, ident
 
 ---
 
-## 🚀 Next Steps
-
-- [ ] Deploy Tableau version for LinkedIn & portfolio
-- [ ] Add trend-over-time charts for hiring velocity
-- [ ] Publish LinkedIn post with insights and visuals
-
----
-
 ## 👤 Author
 
 **Sandhya Singh**  
 Freelance Data Analyst | Passionate about People Analytics & Product Ops  
-📧 [Insert Email]  
-🔗 [LinkedIn Profile]  
-🌐 [Portfolio (if applicable)]
+📧 [ Contactsandhyas27@gmail.com ]  
+🔗 LinkedIn [https://www.linkedin.com/in/sandhya-singh-b6b4b519b]  
+🌐 Portfolio [https://codebasics.io/portfolio/Sandhya-Singh]
 
 ---
 
