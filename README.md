@@ -69,12 +69,6 @@ It focuses on analyzing candidate flow from application to final decision, ident
 
 ---
 
-## 📌 Resume Summary (Sample)
-
-> Built an interactive recruitment dashboard using Excel to track candidate pipeline efficiency. Identified delays in HR and Data & AI departments, optimized sourcing strategy using conversion insights from Naukri and Campus Drives, and visualized hiring metrics to support talent operations.
-
----
-
 ## 👤 Author
 
 **Sandhya Singh**  
